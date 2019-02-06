@@ -1,0 +1,8 @@
+# DO NOT DELETE THIS LINE -- depgen.pl uses it.
+# DO NOT PUT ANYTHING AFTER THIS LINE, IT WILL GO AWAY.
+
+Array.o: \
+  ./Array.h \
+  ./Array.inl
+
+# IF YOU PUT ANYTHING HERE IT WILL GO AWAY
